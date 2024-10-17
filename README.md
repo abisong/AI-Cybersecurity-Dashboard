@@ -1,5 +1,4 @@
 # AI-Cybersecurity-Dashboard
-# AI Cybersecurity Dashboard
 
 ## Overview
 
